@@ -1,10 +1,10 @@
-** Vlog Blog Theme — WordPress from Scratch
+## Vlog Blog Theme — WordPress from Scratch
 
 This is a **custom WordPress blog theme** built entirely from scratch using **PHP, HTML, and CSS**.  
 It was developed as part of my learning journey to understand **WordPress theme structure, templating, and customization**.
 
 
-***  About the Project
+###  About the Project
 
 The **Vlog Blog Theme** is a minimal developer-style blog layout designed and coded by **Alok Yadav**.  
 It includes custom PHP templates for the homepage, single post pages, and a styled header/footer.  
@@ -12,7 +12,7 @@ All posts are dynamically displayed from WordPress.
 
 
 
-** Features
+## Features
 
 -  100% custom-coded WordPress theme (no prebuilt templates)
 -  Clean and responsive layout for posts
@@ -22,23 +22,27 @@ All posts are dynamically displayed from WordPress.
 -  Perfect for learning and portfolio display
 
 
-**  Folder Structure
+##  Folder Structure
 
+## 📁 Folder Structure
+
+```bash
 vlog-site-demo/
 ├── theme/
-│ └── vlog-theme/
-│ ├── index.php
-│ ├── single.php
-│ ├── header.php
-│ ├── footer.php
-│ ├── functions.php
-│ └── style.css
+│   └── vlog-theme/
+│       ├── index.php
+│       ├── single.php
+│       ├── header.php
+│       ├── footer.php
+│       ├── functions.php
+│       └── style.css
 ├── screenshots/
-│ ├── single.png
-│ ├── dashboard.png
-│ └── code.png
-└── README.md
-
+│   ├── single Post.png
+│   ├── dashboard.png
+│   └── code.png
+├── README.md
+└── .gitignore
+```
 
 ---
 
@@ -56,9 +60,8 @@ vlog-site-demo/
 
 ## 📸 Screenshots
 
-| Homepage | Single Post |
-|-----------|--------------|
-| ![Homepage](screenshots/home.png) | ![Single](screenshots/single.png) |
+| Single Post |
+![Single](screenshots/singlePost.png) |
 
 | Dashboard | Code View |
 |------------|------------|
