@@ -61,7 +61,7 @@ vlog-site-demo/
 ## 📸 Screenshots
 
 | Single Post |
-![Single](screenshots/singlePost.png) |
+![Single post](screenshots/Single.png) |
 
 | Dashboard | Code View |
 |------------|------------|
