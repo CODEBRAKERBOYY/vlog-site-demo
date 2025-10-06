@@ -1,0 +1,36 @@
+
+# Ignore WordPress core and uploads (these stay local)
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-config.php
+
+# Ignore system & editor junk files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Logs, temp, and cache
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Node / npm folders (if you ever use build tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Zip files or backups
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Python or other test files (not needed)
+__pycache__/
+*.pyc
